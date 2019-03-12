@@ -6,7 +6,12 @@
 ###########################################################
 # Update this line with the R packages to install:
 
-my_packages = c("plyr")
+my_packages = c("plyr","shinydashboard","leaflet","dplyr", "lubridate", "stringr", "readr", "billboarder", "stringr")
+
+
+
+
+
 
 ###########################################################
 
